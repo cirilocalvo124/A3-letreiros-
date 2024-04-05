@@ -4,6 +4,6 @@ function ver_instagram() {
 }
 
 function mudar() {
-  window.location.href = 'https://github.com/cirilocalvo124?tab=repositories'
+  window.location.href = 'https://github.com/cirilocalvo124/A3-letreiros-'
 }
 
